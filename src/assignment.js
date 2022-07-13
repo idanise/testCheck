@@ -29,6 +29,9 @@ function sumOfNumbers(arrayOfNumbers) {
  */
 function countEvenNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
+    function (aa + b){
+        ok
+    }
 }
 // assignment.countEvenNumbers = countEvenNumbers;
 
