@@ -29,8 +29,8 @@ function sumOfNumbers(arrayOfNumbers) {
  */
 function countEvenNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
-    function (aa + b){
-        ok
+    array.map(n => n % 2 === 0){
+        //oiadkj
     }
 }
 // assignment.countEvenNumbers = countEvenNumbers;
